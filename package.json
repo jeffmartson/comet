@@ -55,7 +55,7 @@
     "mobx": "^6.13.5",
     "namor": "^3.0.1",
     "pinia": "^2.2.4",
-    "pinia-plugin-persistedstate": "^4.1.1",
+    "pinia-plugin-persistedstate": "^4.5.0",
     "radix-vue": "^1.9.7",
     "tailwind-merge": "^2.5.4",
     "tailwindcss-animate": "^1.0.7",
