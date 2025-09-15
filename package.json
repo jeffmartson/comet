@@ -57,7 +57,7 @@
     "pinia": "^2.2.4",
     "pinia-plugin-persistedstate": "^4.1.1",
     "radix-vue": "^1.9.7",
-    "tailwind-merge": "^2.5.4",
+    "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7",
     "unzipper": "^0.12.3",
     "uuid": "^10.0.0",
